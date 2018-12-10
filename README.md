@@ -4,21 +4,20 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+12/10/18
 
 ### Student Name:  
-(First and Last Name)
+Brandon Urbina
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment we were asked to request an API key from a movie database website, and make our own online movie database.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
-4. (Briefly describe a lesson/concept learned in this lesson.)
-5. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to find API's. 
+2. The ways to utilize tools such as APIs to our like.
+3. How to use json method.
+4. The importance of APIs and how beneficial they can be.
+5. Learning about the ajax methods. 
